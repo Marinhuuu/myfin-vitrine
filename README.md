@@ -2,8 +2,6 @@
 
 Sistema web para organizar a vida financeira em um só lugar: receitas, despesas, cartões de crédito, faturas, parcelas, gastos feitos para outras pessoas e poupança. Cada usuário acessa com login próprio e vê apenas os seus dados.
 
-**Aplicação no ar:** [projeto-financeiro-eif6.onrender.com](https://projeto-financeiro-eif6.onrender.com/login). O acesso é feito por convite, e a primeira abertura pode levar cerca de um minuto porque a hospedagem é gratuita.
-
 > Este repositório é apenas uma vitrine do projeto. O código-fonte é mantido em um repositório privado.
 
 ## Telas
